@@ -42,7 +42,7 @@ Here, I used Figma for creating layout for background which is 16:9 i.e. 720* 12
 ## Conclusion:
 Overall, it was a good dataset to analyse and it gave me a good understanding regarding FPC shareholders and their details.
 
-### [DASHBOARD] (https://app.powerbi.com/view?r=eyJrIjoiMWM0NDNiMDQtN2UyMS00ZGM2LWIyNzctNWNiMzhkNjc5NTY5IiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
+### [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiMWM0NDNiMDQtN2UyMS00ZGM2LWIyNzctNWNiMzhkNjc5NTY5IiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
 
 
 

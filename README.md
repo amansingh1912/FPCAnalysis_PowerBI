@@ -1,4 +1,6 @@
 # FPCAnalysis In Power BI
+## [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWM0NDNiMDQtN2UyMS00ZGM2LWIyNzctNWNiMzhkNjc5NTY5IiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
+
 It is a report in the domain of agriculture based on FPC Shareholders and their feedbacks on the FPC for a XYZ company.
 
 ![thinkstockphotos-151513663-5bfc353e4cedfd0026c2e3a8](https://user-images.githubusercontent.com/72240938/193417683-b543c1b3-f14a-43cb-9026-4d54db4a32e2.jpg)
@@ -42,7 +44,6 @@ Here, I used Figma for creating layout for background which is 16:9 i.e. 720* 12
 ## Conclusion:
 Overall, it was a good dataset to analyse and it gave me a good understanding regarding FPC shareholders and their details.
 
-### [DASHBOARD](https://app.powerbi.com/view?r=eyJrIjoiMWM0NDNiMDQtN2UyMS00ZGM2LWIyNzctNWNiMzhkNjc5NTY5IiwidCI6ImQ3MzA2Mjg2LTllYTUtNDUyNi05N2FjLTJmMzg2MzAwODY4MCJ9)
 
 
 
